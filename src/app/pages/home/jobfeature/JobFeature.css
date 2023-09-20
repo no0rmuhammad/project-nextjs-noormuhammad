@@ -1,0 +1,16 @@
+.card-span-clr {
+  background-color: rgba(231, 246, 234, 1);
+  color: rgba(11, 160, 44, 1);
+}
+
+.card-salary-clr {
+  color: rgba(118, 127, 140, 1);
+}
+.card-bg-color {
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 246, 230, 1),
+    rgba(255, 255, 255, 1),
+    rgba(255, 255, 255, 1)
+  ) !important;
+}

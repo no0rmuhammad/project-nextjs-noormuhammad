@@ -1,0 +1,18 @@
+.company-btn-clr{
+    background-color: rgba(231, 240, 250, 1) !important;
+    color: rgba(10, 101, 204, 1) !important;
+}
+.dribble-size{
+    font-size: 1.2rem;
+    font-weight: bolder;
+
+}
+.feature-clr{
+    background-color: rgba(252, 238, 238, 1) !important;
+    color: rgba(224, 81, 81, 1) !important;
+    font-size: 0.9rem;
+    font-weight: normal;
+}
+.loc-Clr{
+    color: rgba(118, 127, 140, 1) !important;
+}

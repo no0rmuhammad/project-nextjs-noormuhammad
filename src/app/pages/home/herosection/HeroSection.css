@@ -1,0 +1,24 @@
+.hero-bg-clr{
+background-color: rgba(241, 242, 244, 0.6);
+}
+.height-hero{
+    font-size: 3.6vw;
+}
+.height-para{
+    font-size: 1rem;
+}
+.bg-button{
+    background-color: rgba(10, 101, 204, 1) !important;
+}
+.btn-text{
+    font-size: 16px !important;
+} 
+::placeholder{
+    color: rgba(145, 153, 163, 1) !important;
+}
+.hero-text-clr-1{
+    color: rgba(145, 153, 163, 1) !important;
+}
+.hero-text-clr-2{
+    color: rgba(10, 101, 204, 1) !important;
+}

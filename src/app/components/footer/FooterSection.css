@@ -1,0 +1,16 @@
+.footer-bg-clr{
+    background-color: rgba(24, 25, 28, 1) !important;
+}
+.size14-700w {
+    font-size: 14px !important;
+    font-weight: 700 !important;
+}
+.mb-li {
+    list-style: none;
+    margin-bottom: 16px;
+    font-size: 16px !important;
+    color: rgba(94, 102, 112, 1);
+}
+.li-style{
+    list-style: none !important;
+}
